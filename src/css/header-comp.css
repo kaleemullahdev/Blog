@@ -1,0 +1,21 @@
+.custom-classname {
+  vertical-align: middle;
+}
+.custom-classname.react-toggle--checked .react-toggle-track {
+  background-color: #4d4d4d;
+}
+
+.react-toggle--checked:hover:not(.react-toggle--disabled) .react-toggle-track {
+  background-color: #4d4d4d;
+}
+.react-toggle:hover:not(.react-toggle--disabled) .react-toggle-track {
+  background-color: #4d4d4d;
+}
+.react-toggle-track-x {
+  padding-bottom: 4px;
+  padding-right: 1px;
+}
+
+.react-toggle-track-check {
+  padding-bottom: 4px;
+}
